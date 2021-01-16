@@ -42,7 +42,7 @@ allowing users to be one step ahead of a birthday or an upcoming anniversary.
 - More about authentication, specifically how to implement an OAuth2 provider (Google Authentication).
 - Learn and sharpen my Front-End skills so that my UI design is polished and intuitive. 
 - More about single-page design. The UI should be clean of clutter and accessible to the user, which will also make the app more mobile friendly. 
-- Learn about transactional emails, using a transactional email service to send emails via API or SMTP.
+- Learn about email/messaging/SMS APIs, ideally to send from user's personal number
 - (MongoDB if used)
 ### Project Tracker
 
