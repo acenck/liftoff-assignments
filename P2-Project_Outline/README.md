@@ -14,19 +14,19 @@ allowing users to be one step ahead of a birthday or an upcoming anniversary.
 
 
 ### Features
-- User Login
+- User Login:
 	Users will be able to create accounts and log into the application. Active user will be displayed in the center of the page above the search bar and contact list. Optional: authentication from a third-party (Google Authentication).
 
-- Add/Edit/Delete Contacts 
+- Add/Edit/Delete Contacts: 
 	User will be able to add contacts with perntinent information (Name, Phone, Email), edit that information, or delete entries. 
 
-- Search
+- Search:
 	Users will be able to search added contacts by Name, Phone and Email. Contacts will be filtered on the same page as search as the user types.
 
-- Favorites 
+- Favorites:
 	Users will be able add up to 3 contacts to their favorites, which will be displayed prominently at the top of the contact list for convenience.
 
-- Automated messages
+- Automated messages:
 	Significant dates (like birthdays and other holidays) can be added to contacts to schedule customized automated messages to be sent at specific dates and times. 
 
 
