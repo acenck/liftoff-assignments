@@ -45,7 +45,8 @@ allowing users to be one step ahead of a birthday or an upcoming anniversary.
 - Learn about email/messaging/SMS APIs, ideally to send from user's personal number
 - (MongoDB if used)
 ### Project Tracker
+Link to trello:
+
+https://trello.com/b/CJO0hOzW/liftoff-project
 
 
-
-Link to your Trello board here
